@@ -1,8 +1,8 @@
 # UserAgent
 
-[![GitHub stars](https://img.shields.io/github/stars/farhanaliofficial/UserAgent.svg?style=flat-square)](https://github.com/farhanaliofficial/UserAgent/stargazers)
-[![GitHub license](https://img.shields.io/github/license/farhanaliofficial/UserAgent.svg?style=flat-square)](https://github.com/farhanaliofficial/UserAgent/blob/main/LICENSE)
-[![Latest release](https://img.shields.io/github/v/release/farhanaliofficial/UserAgent.svg?style=flat-square)](https://github.com/farhanaliofficial/UserAgent/releases)
+[![GitHub stars](https://img.shields.io/github/stars/farhaanaliii/UserAgent.svg?style=flat-square)](https://github.com/farhaanaliii/UserAgent/stargazers)
+[![GitHub license](https://img.shields.io/github/license/farhaanaliii/UserAgent.svg?style=flat-square)](https://github.com/farhaanaliii/UserAgent/blob/main/LICENSE)
+[![Latest release](https://img.shields.io/github/v/release/farhaanaliii/UserAgent.svg?style=flat-square)](https://github.com/farhaanaliii/UserAgent/releases)
 
 UserAgent is a PHP library that provides methods to generate random User-Agent strings for different platforms, including Windows, Linux, and mobile devices.
 
